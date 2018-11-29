@@ -13,7 +13,7 @@ echo "Creating tarball..."
 # prepare src/batch_norm.c
 # prepare trycifar.py
 prepare rl_hw_problems.ipynb
-prepare RL-HW\ Graphs.pdf 
+prepare RL-HWGraphs.pdf 
 
 tar cvzf submit.tar.gz submit
 rm -rf submit/
